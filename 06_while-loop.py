@@ -6,9 +6,11 @@ While y <= x, print the value of y and increment y by 1.
 x=input("Introduce el numero: ")
 x=int(x)
 y=1
-while y<=x:
+if x >= 1: 
+ while y<=x:
     print(y)
     y=y+1
-while y>=x:
+else: 
+  while y>=x:
     print(y)
     y=y-1
