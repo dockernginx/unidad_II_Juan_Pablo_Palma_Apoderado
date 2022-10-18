@@ -8,4 +8,4 @@ lsname = input('Cual es tu apellido? ')
 location = input('Donde te encuentras? ')
 age = input('Que edad tienes? ')
 space = ''
-print('hello ',name , space, lsname,'location is: ', space, location,'age: ', age)
+print('Hola ',name , space, lsname,'tu localidad es: ', space, location,'edad: ', age)
