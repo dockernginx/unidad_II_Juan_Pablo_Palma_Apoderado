@@ -13,3 +13,10 @@ Cisco Meraki MX64W Security Appliance
 Cisco Meraki MX84 Security Appliance
 Cisco Meraki MC74 VoIP Phone
 Cisco 3860 Catalyst Switch
+Cisco 123
+Cisco 324
+Switch Rojo 123
+Router 123 Negro
+Switch 2143 Negro
+Router 5446 Amarillo
+exit
