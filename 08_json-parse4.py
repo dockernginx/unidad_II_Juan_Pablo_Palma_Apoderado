@@ -33,13 +33,3 @@ while True:
     dest = input("Destination: ")
     if dest == "quit" or dest == "q":
         break
-'''La impresión que muestren las ubicaciones de origen y destino, 
-así como las claves formateadas de tiempo, distancia y lo que utilizo.
-'''
-if json_status == 0:
-    print("API Status: " + str(json_status) + " = A successful route call.\n") 
-    print("Directions from " + (orig) + " to " + (dest))
-    print("Trip Duration:   " + str(json_data["route"]["formattedTime"]))
-    print("Miles:           " + str(json_data["route"]["distance"]))
-    print("Fuel(Gal):       " + str(json_data["route"]["fuelUsed"])) 
-    print("=============================================")

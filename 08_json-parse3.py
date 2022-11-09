@@ -1,7 +1,8 @@
 '''
 Nombre: Juan Pablo Palma APoderado 
 Fecha: 25/oct/2022
-Descricpción: 
+Descricpción: En este tercer ejercicio colocaremos los parametros orig y dest en un condicional 
+while para revisar si se cumple con la misma. 
 '''
 import urllib.parse
 '''Importe módulos existentes para agregar funcionalidad adicional'''
